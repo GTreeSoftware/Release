@@ -1,2 +1,2 @@
 # Release
-Release executable files
+https://github.com/GTreeSoftware/Release/releases
